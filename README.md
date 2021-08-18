@@ -1,2 +1,2 @@
 # Blogger-website
-this is a blogger website using html, css with bootstrap 4,
+this is a blogger website using html, css(clone from https://github.com/akashyap2013?tab=repositories to learn frontend-dev)
